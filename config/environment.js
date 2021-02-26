@@ -9,3 +9,4 @@ export const dbURI = environment === 'production'
 export const port = process.env.PORT || 8000
 const env = process.env.NODE_ENV || 'development'
 export const secret = process.env.SECRET || 'This is a really long secret string no one is going to guess 3onsfdnisdo.'
+//This is my config
