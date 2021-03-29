@@ -56,7 +56,7 @@ The idea for our app came from a teammate who used to work in conference service
 
 Over Zoom and Slack, we brainstormed and strategized and whiteboarded proposals about how we thought the page could look. We sketched out our models (user, meet up, restaurants, point of interest), our routes and then we created a wireframe:
 
-<wireframe image>
+![Wireframe](read.me_assets/wireframe.jpg)
 
 By Day 2, we were ready to begin the backend. We thought it was very important that we work as a group, so we used VS Code LiveShare to set up the backend together: creating models, controllers, routes, middleware. Once we finished the backend, we each started working on our respective front-end tasks. To ease styling, we decided to use the Bulma CSS framework.
 
@@ -185,7 +185,7 @@ The next thing, we wanted the user to be able to add restaurants, points of inte
 
 ![Comment](read.me_assets/comment.png)
 
-Finally, we wanted the user to be able to comment on other users profiles, meet-ups, groups and restuarants. This would give the website a review system very similar to the likes of TripAdvisor or other review sites.
+Finally, we wanted the user to be able to comment on other users profiles, meet-ups, groups and restuarants. This would give the website a review system very similar to the likes of TripAdvisor or other review sites. Unfortunately, we only had time to implement the commenting to the profile and meet-ups. 
 
 ```js
 function handleComment() {
