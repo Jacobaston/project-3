@@ -288,6 +288,7 @@ The app was then deployed through Heroku. Initially we linked up the front-end t
 - Mobile responsiveness
 - Likes/upvotes
 - Private messaging between users whom you can add as a friend
+- Testing - this is my biggest regret of the project, we added the testing files, however due to the size of the MVP didn't have time to impliment these first
 
 ### Key learnings
 - Learning about W3C accessibility standards. I tried to implement as many as I could and that research and implementation were an excellent learning experience
