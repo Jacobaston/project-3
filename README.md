@@ -265,12 +265,42 @@ const [formData, updateFormData] = useState({
 
 ![Home](read.me_assets/home.png)
 
-For the Home page I wanted to have a 
+For the Home page we had a pretty clear idea from our initial wireframe on what we wanted it to look like and the functionality we wanted to include. The randomly revolving restaurants and points of interest would give new users a glimps into what to be able to expect from the main aspects of the website.
 
-To increase accessibilty, I implemented a site map in our footer with clearly defined links to each page of our website
+To increase accessibilty, I implemented a site map in our footer with clearly defined links to each page of our website, and a walkthrough to clearly tell users how to navigate the flow of the site. 
 
 ![Footer](read.me_assets/footer.png)
 
 ## Deployment
 
 The app was then deployed through Heroku. Initially we linked up the front-end to the back-end and tested locally, and once we were happy with this then hit the deploy button on Heroku through the CLI. Once the app was then deployed online we seeded in the relevent data.
+
+## Conclusion
+
+### Wins
+- Learning how to work remotely in a team. This is a skill that is going to be invaluable in the workplace, and this project offered me the perfect opportunity to develop my capabilities in this area .
+- We created a real MERN full-stack application! It makes the past 2 months of learning feel very real .
+
+### Challenges
+- Time was the main challeage. We had a very ambitious MVP, so getting it to a finished product was very difficult, unfortunately in this case we did miss off some features that were in our original plan. For my next project I will push to have a more realistic MVP to which we can add extra features if the time permits.
+
+### Future features
+- Mobile responsiveness
+- Likes/upvotes
+- Private messaging between users whom you can add as a friend
+
+### Key learnings
+- Learning about W3C accessibility standards. I tried to implement as many as I could and that research and implementation were an excellent learning experience
+  -Alternative text for each image
+  -Clearly identified captions/headers
+  -Site map
+  -Thorough navigation bar (I did not code it, but I was active in designing the wireframe)
+  -Multiple search/filter options
+  -Consistent styling/colors
+- Learning how to code in a team (which I think we did very well!). This encompasses *several* elements and I am so grateful that we had the chance to do this project and learn these essential lessons:
+  -Git version control and merging conflicts
+  -Planning and delegating tasks
+  -Communication
+  -Giving and receiving constructive criticism 
+  -Working with people with different styles/hours than you
+  -Helping out/encouraging your teammates when they are stuck
