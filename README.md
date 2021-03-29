@@ -3,7 +3,7 @@
 
 ## Overview
 
-Project 3 was my first experience of building a full stack application as part of a group (4 people). After a short amount of discussion we came up with the idea of building Loose End, a social app for users to add, share and review meet ups and points of interest, as well as organise groups with associated activities
+Project 3 was my first experience of building a full stack application as part of a group (4 people). After a short discussion we came up with the idea of building Loose End, a social app for users to add, share and review meet ups and points of interest, restaurants, as well as organise groups with associated activities
 
 Chheck out the final project [here](https://ja-loose-end.herokuapp.com/)
 
@@ -22,7 +22,7 @@ Chheck out the final project [here](https://ja-loose-end.herokuapp.com/)
 ### Back-end:
 - Node.js
 - Mongodb
-- Express
+- Express.js
 - Bcrypt
 - Mongoose
 - jsonwebtoken
