@@ -259,7 +259,11 @@ const [formData, updateFormData] = useState({
 
 #### Home page and Footer
 
+For the Home page I wanted to have a 
 
+To increase accessibilty, I implemented a site map in our footer with clearly defined links to each page of our website
+
+<footer image>
 
 ## Deployment
 
