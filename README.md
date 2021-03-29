@@ -150,6 +150,8 @@ By taking the lead on the User and Comments on the backend, I decided that I wan
 
 #### Profile
 
+![Profile](read.me_assets/profile.png)
+
 For the user profile we wanted a user to be able to edit their information (add a profile picture, change their name and location, and update their personal interests. We allowed the user to do this by checking if they had a valid JWT token. 
 
 ```js
@@ -180,6 +182,8 @@ The user should also only be able to edit their own details, to allow this we de
 The next thing, we wanted the user to be able to add restaurants, points of interest and meet-ups to their wishlist, these would then be rendered to their profile so that they could save the information about all these things in one place. To do this we took advantage of the nested schemas we had set up in our models so that we could map over the data the user would push to their wishlist array when clicking the 'add to wishlist' buttons on the individual single item pages.
 
 #### Commenting
+
+![Comment](read.me_assets/comment.png)
 
 Finally, we wanted the user to be able to comment on other users profiles, meet-ups, groups and restuarants. This would give the website a review system very similar to the likes of TripAdvisor or other review sites.
 
@@ -259,11 +263,13 @@ const [formData, updateFormData] = useState({
 
 #### Home page and Footer
 
+![Home](read.me_assets/home.png)
+
 For the Home page I wanted to have a 
 
 To increase accessibilty, I implemented a site map in our footer with clearly defined links to each page of our website
 
-<footer image>
+![Footer](read.me_assets/footer.png)
 
 ## Deployment
 
