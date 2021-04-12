@@ -3,7 +3,7 @@
 
 ## Overview
 
-Project 3 was my first experience of building a full stack application as part of a group (4 people). After a short discussion we came up with the idea of building Loose End, a social app for users to add, share and review meet ups and points of interest, restaurants, as well as organise groups with associated activities
+Project 3 was my first experience of building a full stack application as part of a group (4 people). After a short discussion we came up with the idea of building Loose End, a social app for users to add, share and review meet ups and points of interest, restaurants, as well as organise groups with associated activities.
 
 Chheck out the final project [here](https://ja-loose-end.herokuapp.com/)
 
@@ -14,7 +14,7 @@ Chheck out the final project [here](https://ja-loose-end.herokuapp.com/)
 * **Consume your API with a separate front-end** built with React
 * **Be a complete product** which most likely means multiple relationships and CRUD functionality for at least a couple of models
 * **Implement thoughtful user stories/wireframes** that are significant enough to help you know which features are core MVP and which you can cut
-* **Be deployed online** so it's publicly accessible.
+* **Be deployed online** so it's publicly accessible
 
 --- 
 ## Technologies Used
@@ -279,7 +279,7 @@ The app was then deployed through Heroku. Initially we linked up the front-end t
 
 ### Wins
 - Learning how to work remotely in a team. This is a skill that is going to be invaluable in the workplace, and this project offered me the perfect opportunity to develop my capabilities in this area .
-- We created a real MERN full-stack application! It makes the past 2 months of learning feel very real .
+- We created a real MERN full-stack application! It makes the past 2 months of learning feel very real.
 
 ### Challenges
 - Time was the main challeage. We had a very ambitious MVP, so getting it to a finished product was very difficult, unfortunately in this case we did miss off some features that were in our original plan. For my next project I will push to have a more realistic MVP to which we can add extra features if the time permits.
